@@ -1,0 +1,1 @@
+mvn -PCucumberRunner clean verify -e -fae
