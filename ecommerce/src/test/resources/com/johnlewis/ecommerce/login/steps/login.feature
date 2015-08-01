@@ -1,4 +1,4 @@
-@login @Regression @suma @latha
+@login @Regression @suma 
 Feature: Website Login
 As a Registered user
 In order to login
